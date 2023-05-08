@@ -1,13 +1,13 @@
 ### <div align="center">I'm Mo, a full-stack developer</div>  
   
 
-- 🔭 I’m currently working on a [Zoom Attendance Script](https://github.com/akbarimo/zoom-attendance)  
+- 🔭 I’m currently working on an Online StoreFront
   
 
-- 🌱 I’m currently learning GoLang and GraphQL  
+- 🌱 I’m currently learning GraphQL and Next.js
   
 
-- ⚡ Fun fact: I like to work on my cars & game  
+- ⚡ Fun fact: I like to work on my cars & play all sorts of games
   
 
 <br/>  
@@ -73,9 +73,6 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/akbarimo" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
 <a href="https://linkedin.com/in/akbarimo" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
