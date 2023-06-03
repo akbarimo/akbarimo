@@ -1,7 +1,7 @@
 ### <div align="center">I'm Mo, a full-stack developer</div>  
   
 
-- 🔭 I’m currently working on an Online StoreFront
+- 🔭 I’m currently working on my Portfolio site
   
 
 - 🌱 I’m currently learning GraphQL and Next.js
