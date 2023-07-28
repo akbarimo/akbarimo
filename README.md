@@ -8,7 +8,7 @@ I'm a versatile software engineer with a passion for solving complex problems. E
 <br/>
 <img align="right" alt="GIF" src="svgs/coding.svg" width="360px"/>
 
-### 🔍 More About Me:
+### 🔍 About Me:
 
 - 🔭 &nbsp; I’m currently working on my Portfolio
 
