@@ -15,7 +15,7 @@ I'm a versatile software engineer with a passion for solving complex problems. E
 - 📚 &nbsp; I’m currently learning GraphQL and Next.js
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help
 - 📫 &nbsp; Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/akbarimo/)
-- 📝 &nbsp; Checkout my [resume](https://docs.google.com/file/d/1VFwWp9XXHKup4i9N64uPPvT0o1AxcmkMNbS6sbOQguc/?usp=sharing)
+- 📝 &nbsp; Check out my [resume](https://docs.google.com/file/d/1VFwWp9XXHKup4i9N64uPPvT0o1AxcmkMNbS6sbOQguc/?usp=sharing)
 - ⚡ &nbsp; In my free time I enjoy working on my cars and playing video games
 
 <br>
